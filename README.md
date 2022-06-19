@@ -14,8 +14,6 @@ The first code is the same for each command.
 
 Only the last digit changes of the second code for each command.
 
-See the raw (Arduino) output in [out.txt](out.txt).
-
 ON/OFF (8)
 
     3197169664
@@ -40,3 +38,6 @@ LOCK (2)
 
     3197169664
     3197112082
+
+I discovered these codes with an [Arduino project](https://create.arduino.cc/projecthub/electropeak/use-an-ir-remote-transmitter-and-receiver-with-arduino-1e6bc8).
+See the raw output in [out.txt](out.txt).

@@ -2,7 +2,7 @@
 
 MC55W is an air purifier from Daikin. It has an infrared (**IR**) remote controller.
 
-I'd like to schedule the MC55W operation by sending IR commands from another device.
+I'd like to make the MC55W **Smart**, namely to schedule the MC55W operation by sending IR commands from another device.
 
 ## IR Remote
 

@@ -10,9 +10,9 @@ The IR remote is sending two codes for each command.
 
 There are 100-110 ms between each code.
 
-The first code is the same for each command.
+The first code is the same for each command. `0xbe90f000`.
 
-Only the last digit changes of the second code for each command.
+Only the last digit changes of the second code for each command. `0xbe900f1[0-9]`.
 
 ON/OFF (8)
 

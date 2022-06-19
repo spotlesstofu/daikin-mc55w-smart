@@ -1,0 +1,1 @@
+# daikin-mc55w-smart
